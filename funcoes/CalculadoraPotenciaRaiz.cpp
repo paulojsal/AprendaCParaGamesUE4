@@ -8,6 +8,7 @@ tenham retorno iguais aos das funções pow e sqrt respectivamente que é double
 Além disso temos que trocar os valores que mostrei na aula de int por float nos tipos dos parâmetros 
 destas funções para evitar perda de dados */
 #include <iostream>
+#include <cmath>
 //PROTÒTIPOS DAS FUNCOES
 float Soma(float num1, float num2);
 float Subtracao(float num1, float num2);
